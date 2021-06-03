@@ -82,6 +82,7 @@
     outline: none;
     width: 430px;
     height: 20px;
+    font-size: 16px;
 }
 ::-webkit-input-placeholder{
     font-size: 16px;
